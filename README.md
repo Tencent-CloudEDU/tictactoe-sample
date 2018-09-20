@@ -1,13 +1,12 @@
-# 从 0 到 1 实现井字棋游戏 Demo源码
+# 《从 0 到 1 实现井字棋游戏》课程Demo源码
 
 By [腾讯云学院](https://cloud.tencent.com/developer/edu)
 
 ## 课程简介
+
 https://cloud.tencent.com/developer/edu/course-1285
 
-
 构建自己的第一个微信小游戏，让你的社交和游戏创意变为现实 
-[从 0 到 1 实现井字棋游戏](https://cloud.tencent.com/developer/edu/course-1285)
 
 ### 认识微信小游戏
 
