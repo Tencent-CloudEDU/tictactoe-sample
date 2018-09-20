@@ -3,7 +3,7 @@
 By [腾讯云学院](https://cloud.tencent.com/developer/edu)
 
 ## 课程简介
-https://github.com/Tencent-CloudEDU/tictactoe-sample
+https://cloud.tencent.com/developer/edu/course-1285
 
 
 构建自己的第一个微信小游戏，让你的社交和游戏创意变为现实 
