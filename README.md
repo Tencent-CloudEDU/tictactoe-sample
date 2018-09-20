@@ -1,4 +1,3 @@
-# tictactoe-sample
 # 从 0 到 1 实现井字棋游戏 Demo源码
 
 By [腾讯云学院](https://cloud.tencent.com/developer/edu)
